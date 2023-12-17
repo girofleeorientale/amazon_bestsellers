@@ -1,0 +1,1 @@
+# aim of the project: predict Amazon bestsellers in a given dataset
