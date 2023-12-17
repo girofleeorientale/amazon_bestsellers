@@ -1,0 +1,125 @@
+price: 15 - 30 - 50 - 75 - 100 - 150 - over
+
+under 15:
+Boys, Handmade Home & Kitchen Products, Car & Motorbike,
+Hardware, Wearable Technology, USB Gadgets, Light Bulbs, 
+Handmade Gifts, Calendars & Personal Organisers, Pet Supplies,
+'Plants, Seeds & Bulbs', "Kids' Art & Craft Supplies", Skin Care,
+Hobbies, Computer Screws, Bath & Body, Handmade Kitchen & Dining,
+Agricultural Equipment & Supplies, Power & Hand Tools,
+Boating Footwear, SIM Cards, Cutting Tools, Abrasive & Finishing Products,
+Mobile Phone Accessories, Cables & Accessories, Manicure & Pedicure Products,
+Rough Plumbing, Kitchen Tools & Gadgets, Cushions & Accessories,
+'Pens, Pencils & Writing Supplies', School & Educational Supplies,
+Home Fragrance, Games & Game Accessories, Beauty, Bedding Accessories,
+Kitchen Linen, Hiking Games & Game Accessories, Handmade Artwork,
+Make-up, Industrial Electrical, 'Painting Supplies, Tools & Wall Treatments',
+Electrical Power Accessories, Safety & Security, Vacuums & Floorcare, 
+Radio Communication, Girls, Tablet Accessories, Baby, Office Supplies,
+Baby & Toddler Toys, Learning & Education Toys, Health & Personal Care,
+Signs & Plaques, Gardening, Decorative Artificial Flora, Toy Advent Calendars,
+Candles & Holders, External Sound Cards, 'Handmade Clothing, Shoes & Accessories',
+Handmade Home Décor, Professional Education Supplies, Handmade, 
+'Headphones, Earphones & Accessories', Ironing & Steamers, 
+'Household Batteries, Chargers & Accessories', Grocery,
+Hi-Fi & Home Audio Accessories, Bakeware, Torches, Electrical, Adapters,
+Computer Memory Card Accessories, Hard Drive Accessories, 
+Hard Drive Accessories, Garden Tools & Watering Equipment, Office Paper,
+Jigsaws & Puzzles, Decorative Home Accessories, Clocks, Doormats, 
+Photo Frames, Kids' Dress Up & Pretend Play, Soft Toys, Handmade Jewellery,
+Hair Care, Arts & Crafts, 
+
+
+15 - 30:
+PC Gaming Accessories, Microphones, Sports & Outdoors,
+'Heating, Cooling & Air Quality', Storage & Home Organisation,
+Motorbike Accessories, Motorbike Chassis, Bathroom Lighting,
+Blank Media Cases & Wallets, Motorbike Lighting, Indoor Lighting,
+Fragrances, General Music-Making Accessories, Storage & Organisation,
+Kids' Play Vehicles, Ski Goggles, Curtain & Blind Accessories, 
+Bird & Wildlife Care, Bedding & Linen, Birthday Gifts, PC & Video Games,
+Luxury Food & Drink, Mowers & Outdoor Power Tools, Kitchen & Bath Fixtures,
+Tableware, 'Beer, Wine & Spirits', Kitchen Storage & Organisation, 
+'Water Coolers, Filters & Cartridges', Car & Vehicle Electronics,
+Motorbike Engines & Engine Parts, Home Brewing & Wine Making,
+'Computers, Components & Accessories', Motorbike Brakes, Lighting,
+eBook Readers & Accessories, Small Kitchen Appliances, 
+Mattress Pads & Toppers, Children's Bedding, Window Treatments,
+Dolls & Accessories, Printers & Accessories, Sports Toys & Outdoor,
+I/O Port Cards, 'Telephones, VoIP & Accessories', 3D Printing & Scanning,
+Outdoor Rope Lights, 'Keyboards, Mice & Input Devices', 
+Mobile Phones & Communication, Lights and switches, Photo Printers,
+Plugs, Office Electronics, Piano & Keyboard, 'Synthesisers, Samplers & Digital Instruments',
+Headphones & Earphones, Laptop Accessories, Drums & Percussion, Piano & Keyboard,
+'Pools, Hot Tubs & Supplies', Outdoor Cooking, Kids' Play Figures, 
+Thermometers & Meteorological Instruments, Bathroom Furniture,
+Bathroom Linen, Electronic Toys, External TV Tuners & Video Capture Cards,
+Table Tennis, 'Billiard, Snooker & Pool', Bowling, Trampolines & Accessories,
+Sports Supplements, Camera & Photo Accessories, Men, Customers' Most Loved,
+Ballet & Dancing Footwear, 'Home Cinema, TV & Video', Portable Sound & Video Products,
+Outdoor Lighting, Luggage and travel gear, DJ & VJ Equipment, Handmade Baby Products,
+Construction Machinery, USB Hubs, Printer Accessories, 'Rugs, Pads & Protectors',
+
+Building & Construction Toys, Hallway Furniture, Networking Devices,
+Snow Sledding Equipment, Vases, Mirrors, Slipcovers, Boxes & Organisers,
+Remote & App-Controlled, Data Storage, External Optical Drives, 
+Network Cards, Women, Gifts for Her, Gifts for Him, Hi-Fi Receivers & Separates,
+'Coffee, Tea & Espresso', 'GPS, Finders & Accessories', Climbing Footwear,
+Equestrian Sports Boots, Film Cameras, 
+
+
+
+
+30 - 50:
+CD, Disc & Tape Players, Motorbike Clothing, 'Fireplaces, Stoves & Accessories',
+Hi-Fi Speakers, Smart Speakers, Furniture & Lighting, Karaoke Equipment,
+String Instruments, Garden Furniture & Accessories, Living Room Furniture,
+Computer Memory, Tennis Shoes, Packaging & Shipping Supplies, 
+Professional Medical Supplies, Cookware, Monitor Accessories,
+Radios & Boomboxes, Home Entertainment Furniture, Water Ski Clothing,
+Ski Clothing, KVM Switches, Tripods & Monopods, Motorbike Electrical & Batteries,
+Surveillance Cameras, Motorbike Instruments, Darts & Dartboards, Cricket Shoes,
+Computer Audio & Video Accessories, Recording & Computer, Downhill Skis,
+Internal Optical Drives, 
+
+
+
+50 - 75:
+Motorbike Batteries, Hiking Hand & Foot Warmers, Women's Sports & Outdoor Shoes,
+Power Supplies, Streaming Clients, Cycling Shoes, Motorbike Drive & Gears,
+Flashes, 'Motorbike Handlebars, Controls & Grips', Made in Italy Handmade,
+Computer Cases, Basketball Footwear, Smartwatches, 'Inflatable Beds, Pillows & Accessories',
+Scanners & Accessories, Internal TV Tuner & Video Capture Cards, Boxing Shoes,
+Camcorders, Golf Shoes, 'Hydraulics, Pneumatics & Plumbing', 
+'Uninterruptible Power Supply Units & Accessories', Bass Guitars & Gear,
+Media Streaming Devices, Hockey Shoes, 
+
+
+75 - 100:
+Coffee & Espresso Machines, Outdoor Heaters & Fire Pits, Skiing Poles,
+Material Handling Products,  Dining Room Furniture, Home Bar Furniture,
+Outdoor Heaters & Fire Pits, Test & Measurement, Motorbike Seat Covers,
+Bedding Collections, Home Office Furniture, Tablets, Smart Home Security & Lighting,
+Computer & Server Racks, Bedroom Furniture, Ski Helmets, Mobile Phones & Smartphones,
+Action Cameras, Digital Cameras, 
+
+
+
+
+100 - 150:
+Motorbike Boots & Luggage, Lab & Scientific Products, Computer Printers,
+Projectors, Alexa Built-In Devices, Monitors, Cameras, 
+'Binoculars, Telescopes & Optics', Digital Frames, 
+
+over 150:
+Wind Instruments, PA & Stage, Downhill Ski Boots, Snowboards, 
+3D Printers, Motherboards, Laptops, Barebone PCs, Graphics Cards,
+CPUs, Home Audio Record Players, Motorbike Exhaust & Exhaust Systems,
+Decking & Fencing, Lenses, Garden Storage & Housing, Snowboard Boots,
+Snowboard Bindings, Garden Storage & Housing, Desktop PCs,
+
+
+
+bizarres:
+eBook Readers & Accessories, Sports & Outdoors, Beauty,
+Smart Home Security & Lighting, Cameras, Snowboard Bindings, 
